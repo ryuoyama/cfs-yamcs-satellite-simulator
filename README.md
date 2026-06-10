@@ -82,17 +82,9 @@ The system was verified through live Yamcs telemetry:
 * Linux-based development workflow
 * System integration testing
 
-## Screenshots
+## Video Demo Link
 
-Screenshots of successful command and telemetry verification are stored in the `screenshots/` folder.
-
-Recommended screenshots:
-
-```text
-screenshots/set_mode_success.png
-screenshots/set_heater_success.png
-screenshots/inject_fault_success.png
-```
+https://youtu.be/515nqVJrwqM
 
 ## Notes
 
