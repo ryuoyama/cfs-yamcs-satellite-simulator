@@ -82,8 +82,9 @@ The system was verified through live Yamcs telemetry:
 * Linux-based development workflow
 * System integration testing
 
-## Video Demo Link
+## Project Demonstration
 
+Youtube link:
 https://youtu.be/515nqVJrwqM
 
 ## Notes
